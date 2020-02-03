@@ -1,9 +1,9 @@
-# Demo Git Repository
+# Starter Web Project
 
-This is the first file in this repo.
+This is a simple
 
-## Website Contents
+## Introduction
 
-Here are the files in the website:
+## Purpose
 
-1. index.html
+## Deployment
