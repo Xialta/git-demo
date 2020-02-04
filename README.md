@@ -6,4 +6,4 @@ This is a simple
 
 ## Purpose
 
-## Deployment
+## Deployments
